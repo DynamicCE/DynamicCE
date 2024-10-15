@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Erkan</h1>
-<h3 align="center">A passionate fullstack developer from Turkey</h3>
+<h1 align="center">Merhaba, Ben Erkan</h1>
+<h3 align="center">Süleyman Demiral Üniversitesi Bilgisayar Mühendisliği Mezunuyum,Spring Boot ve React.js kullanarak fullstack projeler geliştiriyorum.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,6 +1,6 @@
 <h1 align="center">Merhaba, Ben Erkan</h1>
 <h3 align="center">Süleyman Demiral Üniversitesi Bilgisayar Mühendisliği Mezunuyum, Spring Boot ve React.js kullanarak fullstack projeler geliştiriyorum.</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=erkanmurat&label=Profile%20views&color=0e75b6&style=flat" alt="erkanmurat" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/erkan-murat-4bb110243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/erkan-murat-4bb110243" height="30" width="40" /></a>

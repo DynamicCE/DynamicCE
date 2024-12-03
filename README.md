@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba, Ben Erkan</h1>
-<h3 align="center">Süleyman Demiral Üniversitesi Bilgisayar Mühendisliği Öğrencisiyim, Spring Boot ve React.js kullanarak fullstack projeler geliştiriyorum.</h3>
+<h3 align="center">Süleyman Demirel Üniversitesi Bilgisayar Mühendisliği Öğrencisiyim, Spring Boot ve React.js kullanarak fullstack projeler geliştiriyorum.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erkanmurat&label=Profile%20views&color=0e75b6&style=flat" alt="erkanmurat" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
